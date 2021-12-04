@@ -13,8 +13,6 @@ wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip
 unzip Meslo.zip -d ~/.fonts   
 fc-cache -vf
 
-#MS fonts
-sudo apt install ttf-mscorefonts-installer
 
 # Layan Cursors
 cd "$HOME/build"
