@@ -13,3 +13,4 @@ apt install unzip picom bspwm polybar sddm rofi kitty thunar flameshot neofetch 
 # Download Nordic Theme
 cd /usr/share/themes/
 git clone https://github.com/EliverLara/Nordic.git
+
